@@ -16,7 +16,7 @@ const library = [
   },
 ];
 
-const numberOfBooksRead = (library) => {
+const numberOfBooksRead = () => {
   // write your code here
 	let n = library.length;
 	let count=0;
